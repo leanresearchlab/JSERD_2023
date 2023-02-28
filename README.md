@@ -1,4 +1,4 @@
-<h3 align="left"> SBQS 2022 </h3>
+<h3 align="left"> JSERD 2023 </h3>
 
 <h1 align="left"> Test smell refactoring revisited: What can internal quality attributes and developers' experience tell us? </h1>
 
